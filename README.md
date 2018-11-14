@@ -1,3 +1,7 @@
+#FireBase URL
+
+[https://foodmart-634b0.firebaseapp.com/](https://foodmart-634b0.firebaseapp.com/)
+
 # Foodmart
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
